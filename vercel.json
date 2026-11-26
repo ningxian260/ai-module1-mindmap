@@ -1,0 +1,6 @@
+{
+  "framework": null,
+  "outputDirectory": "public",
+  "buildCommand": "mkdir -p public && gzip -dc index.html.gz > public/index.html",
+  "installCommand": null
+}
